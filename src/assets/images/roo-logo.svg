@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- 书本底部 -->
+  <path d="M20 30 L108 30 L108 98 C108 98, 70 85, 64 85 C58 85, 20 98, 20 98 Z" fill="#f0e6d2" stroke="#5c4f3a" stroke-width="2"/>
+  <!-- 书页 -->
+  <path d="M64 30 L64 85" stroke="#5c4f3a" stroke-width="2"/>
+  <!-- 书本左侧页面 -->
+  <path d="M24 34 L60 34 L60 80 C60 80, 45 75, 24 80 Z" fill="#ffffff" stroke="#5c4f3a" stroke-width="1"/>
+  <!-- 书本右侧页面 -->
+  <path d="M68 34 L104 34 L104 80 C104 80, 83 75, 68 80 Z" fill="#ffffff" stroke="#5c4f3a" stroke-width="1"/>
+  <!-- 钢笔 -->
+  <path d="M85 20 L95 10 L105 20 L95 65 Z" fill="#4a86e8" stroke="#2a5db0" stroke-width="1.5"/>
+  <!-- 笔尖 -->
+  <path d="M95 65 L92 72 L98 72 Z" fill="#f1c232" stroke="#2a5db0" stroke-width="1"/>
+  <!-- 书本上的文字线条 -->
+  <path d="M30 45 L54 45" stroke="#5c4f3a" stroke-width="1"/>
+  <path d="M30 55 L54 55" stroke="#5c4f3a" stroke-width="1"/>
+  <path d="M30 65 L54 65" stroke="#5c4f3a" stroke-width="1"/>
+  <path d="M74 45 L98 45" stroke="#5c4f3a" stroke-width="1"/>
+  <path d="M74 55 L98 55" stroke="#5c4f3a" stroke-width="1"/>
+  <path d="M74 65 L98 65" stroke="#5c4f3a" stroke-width="1"/>
+</svg>
