@@ -1,12 +1,12 @@
 <div align="center">
 <sub>
 
-[English](../../README.md) • [Català](../ca/README.md) • [Deutsch](../de/README.md) • [Español](../es/README.md) • [Français](../fr/README.md) • [हिन्दी](../hi/README.md) • [Italiano](../it/README.md) • [Nederlands](../nl/README.md) • [Русский](../ru/README.md)
+English • [Català](locales/ca/README.md) • [Deutsch](locales/de/README.md) • [Español](locales/es/README.md) • [Français](locales/fr/README.md) • [हिन्दी](locales/hi/README.md) • [Italiano](locales/it/README.md) • [Nederlands](locales/nl/README.md) • [Русский](locales/ru/README.md)
 
 </sub>
 <sub>
 
-[日本語](../ja/README.md) • [한국어](../ko/README.md) • [Polski](../pl/README.md) • [Português (BR)](../pt-BR/README.md) • [Türkçe](../tr/README.md) • [Tiếng Việt](../vi/README.md) • [简体中文](../zh-CN/README.md) • 繁體中文
+[日本語](locales/ja/README.md) • [한국어](locales/ko/README.md) • [Polski](locales/pl/README.md) • [Português (BR)](locales/pt-BR/README.md) • [Türkçe](locales/tr/README.md) • [Tiếng Việt](locales/vi/README.md) • [简体中文](locales/zh-CN/README.md) • [繁體中文](locales/zh-TW/README.md)
 
 </sub>
 </div>
